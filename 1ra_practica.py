@@ -1,3 +1,4 @@
+#codigo sin pep8
 # importamos Tkinter
 import tkinter as tk
 
